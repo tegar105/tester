@@ -11,7 +11,7 @@ void main () {
    print(jabatan);
 
     var firstName = "Tegar";
-    final lastName = "Setiawan";
+    final lastName = "Set";
 
     firstName = "Hyper X";
     
